@@ -1,22 +1,21 @@
-# React Protected Routes In React |
+# Print Your Name Project Using React
 
-A brief concept about authorization where routes will be protected based on authorization for the user and it will also check accessible roles.
+A brief concept about useparams, useContext, createContext, DarkMode and LightMode Implementations.
 ## 👉 Packages used :
 - create-react-app
 - react-router-dom
+- react-icons
 
 ## 👉 What I Learned :
-- Authorization
+- useParams
 - useState hook
 - createContext hook
 - ContextProvider
 - useContext hook
-- Outlet
 - useNavigate hook
-- useLocation hook
-- Navigate 
-- Custom hooks
-- Conditional Chaining
+- ternary conditional operation
+- react-icons
+- DarkMode and LightMode
 
 ## 👉 Technologies used :
 - React
